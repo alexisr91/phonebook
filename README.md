@@ -58,4 +58,4 @@ Compile the project
 ```
 
 
-In this case I use a Java extension to compile my project
+In this case I used a Java extension to compile my project
